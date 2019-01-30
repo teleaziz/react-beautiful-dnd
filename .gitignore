@@ -1,30 +1,11 @@
-# editors
-.idea
-.vscode
-
-# library
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 node_modules/
-
-# MacOS
-.DS_Store
-
-# generated files
-dist/
-
-# generated site
-site/
-
-# coverage reports
-coverage/
-
-# test reports
-test-reports/
-
-# storybook
-.storybook.out
-.cache/
-
-# logs
-yarn-error.log
-npm-debug.log
-npm-debug.log.*
+bin/
+obj/
+.vs/
